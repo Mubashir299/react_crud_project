@@ -1,15 +1,15 @@
 {
-  "main.css": "/react_crud_project/static/css/main.35a8df76.chunk.css",
-  "main.js": "/react_crud_project/static/js/main.fac942be.chunk.js",
-  "main.js.map": "/react_crud_project/static/js/main.fac942be.chunk.js.map",
-  "static/css/1.7f942ee3.chunk.css": "/react_crud_project/static/css/1.7f942ee3.chunk.css",
-  "static/js/1.8f880586.chunk.js": "/react_crud_project/static/js/1.8f880586.chunk.js",
-  "static/js/1.8f880586.chunk.js.map": "/react_crud_project/static/js/1.8f880586.chunk.js.map",
-  "runtime~main.js": "/react_crud_project/static/js/runtime~main.1f4b7f8f.js",
-  "runtime~main.js.map": "/react_crud_project/static/js/runtime~main.1f4b7f8f.js.map",
-  "static/css/main.35a8df76.chunk.css.map": "/react_crud_project/static/css/main.35a8df76.chunk.css.map",
-  "static/css/1.7f942ee3.chunk.css.map": "/react_crud_project/static/css/1.7f942ee3.chunk.css.map",
-  "index.html": "/react_crud_project/index.html",
-  "precache-manifest.60529095a419a6a470a20cd2ebd375d4.js": "/react_crud_project/precache-manifest.60529095a419a6a470a20cd2ebd375d4.js",
-  "service-worker.js": "/react_crud_project/service-worker.js"
+  "main.css": "/crud_app/static/css/main.35a8df76.chunk.css",
+  "main.js": "/crud_app/static/js/main.fac942be.chunk.js",
+  "main.js.map": "/crud_app/static/js/main.fac942be.chunk.js.map",
+  "static/css/1.7f942ee3.chunk.css": "/crud_app/static/css/1.7f942ee3.chunk.css",
+  "static/js/1.8f880586.chunk.js": "/crud_app/static/js/1.8f880586.chunk.js",
+  "static/js/1.8f880586.chunk.js.map": "/crud_app/static/js/1.8f880586.chunk.js.map",
+  "runtime~main.js": "/crud_app/static/js/runtime~main.453b841d.js",
+  "runtime~main.js.map": "/crud_app/static/js/runtime~main.453b841d.js.map",
+  "static/css/main.35a8df76.chunk.css.map": "/crud_app/static/css/main.35a8df76.chunk.css.map",
+  "static/css/1.7f942ee3.chunk.css.map": "/crud_app/static/css/1.7f942ee3.chunk.css.map",
+  "index.html": "/crud_app/index.html",
+  "precache-manifest.a9396fb3ce2fc5048fe8ddd0410d2a3a.js": "/crud_app/precache-manifest.a9396fb3ce2fc5048fe8ddd0410d2a3a.js",
+  "service-worker.js": "/crud_app/service-worker.js"
 }
